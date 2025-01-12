@@ -1,7 +1,7 @@
 ## Hi, I'm Sarah!
 
 #  💫 About Me:
-💌 I'm currently studying Computer Science and AI at Ohio University and will graduate in early 2028.<br>
+💌 I'm currently studying Computer Science at Ohio University and will graduate in early 2028.<br>
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
